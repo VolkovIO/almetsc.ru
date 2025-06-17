@@ -1,0 +1,16 @@
+@media(max-width: 600px) {
+    .header__btn {
+        float: none;
+    }
+    .header__contacts {
+        text-align: center;
+    }
+    .header__btn::before {
+        display: none;
+    }
+    .services__top,
+    .services__items,
+    .advantages__inner {
+        display: block;
+    }
+}

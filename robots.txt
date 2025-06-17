@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://almetsc.ru/CSS/sitemap.xml
